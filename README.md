@@ -1,2 +1,2 @@
 # Web-Development
-Project related to Web-Development and underlying technologies 
+Projects related to Web-Development and underlying technologies.
